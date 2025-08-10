@@ -49,7 +49,7 @@ I'm a **Software Engineer**  building robust and scalable web applications. I sp
 **CI/CD (Continuous Integration/Deployment):**  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 
-**Containerization & Deployment:**  
+**Containerization & Orchestration:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
 
